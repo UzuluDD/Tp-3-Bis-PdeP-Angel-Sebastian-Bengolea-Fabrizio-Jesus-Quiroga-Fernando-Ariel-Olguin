@@ -1,0 +1,9 @@
+{
+  "titulo": "string", //obligatorio
+  "descripcion": "string" | null,
+  "estado": "PENDING" | "IN-PROGRESS" | "FINISHED" | "CANCELED",
+  "creacion": "fecha válida", //obligatorio
+  "ultimaEdicion": "fecha válida" | null,
+  "vencimiento": "fecha válida" | null,
+  "dificultad": 1 | 2 | 3
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/prompt-sync": "^4.2.0",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "titulo": "Walter",
+    "descripcion": "Al final no murio",
+    "estado": "PENDING",
+    "creacion": "2026-11-18T21:18:02.974Z",
+    "ultimaedicion": "2026-11-18T21:18:53.023Z",
+    "vencimiento": "12/12/2012",
+    "dificultad": 3
+  },
+  {
+    "titulo": "Fernando ariel olguin",
+    "descripcion": "El que se tira un pedo en cosquin",
+    "estado": "PENDING",
+    "creacion": "2026-11-18T21:19:33.830Z",
+    "ultimaedicion": null,
+    "vencimiento": "12/12/2012",
+    "dificultad": 1
+  },
+  {
+    "titulo": "Fabrizio GTA 6",
+    "descripcion": "Fue muy caro el gta 6 cancelen todo",
+    "estado": "CANCELED",
+    "creacion": "2026-11-18T21:27:21.582Z",
+    "ultimaedicion": "2026-11-18T21:51:07.415Z",
+    "vencimiento": "18/11/2026",
+    "dificultad": 3
+  },
+  {
+    "titulo": "Seba ",
+    "descripcion": "Seba tambien quiere jugar gta 6",
+    "estado": "CANCELED",
+    "creacion": "2026-11-18T21:27:57.174Z",
+    "ultimaedicion": null,
+    "vencimiento": "20/02/2012",
+    "dificultad": 3
+  },
+  {
+    "titulo": "Carlitos",
+    "descripcion": "futbol5",
+    "estado": "IN-PROGRESS",
+    "creacion": "2026-11-18T21:39:59.469Z",
+    "ultimaedicion": null,
+    "vencimiento": "hola",
+    "dificultad": 2
+  },
+  {
+    "titulo": "Carlitos test",
+    "descripcion": "Hola",
+    "estado": "PENDING",
+    "creacion": "2026-11-18T21:44:10.830Z",
+    "ultimaedicion": null,
+    "vencimiento": "Sans",
+    "dificultad": 2
+  },
+  {
+    "titulo": "Carlitos 3",
+    "descripcion": "Nuevo test",
+    "estado": "FINISHED",
+    "creacion": "2026-11-18T21:49:36.009Z",
+    "ultimaedicion": null,
+    "vencimiento": "20/02/2007",
+    "dificultad": 2
+  }
+]
